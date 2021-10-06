@@ -6,7 +6,7 @@
 - 👩‍💻 I’m currently figuring out how to be a Go Blockchain Developer 🤓
 - 🌱 I’m currently learning everything necessary to become a dev including: Go, Docker, Scripting, SQL, etc.
 - 💬 Ask me whatever you're curious to know.
-- 📫 How to reach me: [email](mailto: [benjaminwolfaardt@gmail.com]?subject=[GitHub]%20&body=Dear Ben,).
+- 📫 How to reach me: [email](mailto:benjaminwolfaardt@gmail.com?subject=[GitHub]%20&body=Dear Ben,).
 - ⚡ Fun fact: I have the desire to perpetually be stimulated! 
     Hence continuos procrastiantion i.e. reading everythign I can get my hands on / talking to everyone I cross paths with.
 

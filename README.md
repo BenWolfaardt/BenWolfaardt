@@ -1,15 +1,16 @@
-[![linkedin badge](https://img.shields.io/badge/@BenWolfaardt-gray?style=flat&logo=linkedin)](https://www.linkedin.com/in/benwolfaardt/)
+[![linkedin badge](https://img.shields.io/badge/@BenWolfaardt-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benwolfaardt/)
+[![gmail badge](https://img.shields.io/badge/@BenjaminWolfaardt-white?style=flat&logo=gmail)](mailto:benjaminwolfaardt@gmail.com?subject=[GitHub]%20&body=Ciao%20Ben,)
 
 ### Hi, I'm Ben 👋
 
-- 🧑‍🔧 Education: BEng (Hons) Mechatronic Engineering.
 - 👩‍💻 I’m currently figuring out how to be a Go Blockchain Developer 🤓
-- 🌱 I’m currently learning everything necessary to become a dev including: Go, Docker, Scripting, SQL, etc.
-- 💬 Ask me whatever you're curious to know.
-- 📫 How to reach me: [email](mailto:benjaminwolfaardt@gmail.com?subject=[GitHub]%20&body=Dear%20Ben,).
--                       [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
-- ⚡ Fun fact: I have the desire to perpetually be stimulated! 
-    Hence continuos procrastiantion i.e. reading everythign I can get my hands on / talking to everyone I cross paths with.
+- 🌱 Currently learning everything necessary to become a dev including: Go, Docker, Scripting, SQL, etc.
+- 🧑‍🔧 Education: BEng (Hons) Mechatronic Engineering.
+- 📍 South African 🇿🇦 living in Italy 🇮🇹
+- 💬 Ask me whatever you're curious about.
+- 📫 How to reach me: [email](mailto:benjaminwolfaardt@gmail.com?subject=[GitHub]%20&body=Ciao%20Ben,).
+- ⚡ Fun fact: I have the desire to perpetually be stimulated!  
+    Hence continuos procrastiantion i.e. reading everything I can get my hands on / talking to everyone I cross paths with.
 
 <!--
 **BenWolfaardt/BenWolfaardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

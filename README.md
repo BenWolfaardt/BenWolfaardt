@@ -4,7 +4,7 @@
 ### Hi, I'm Ben 👋
 
 - 👩‍💻 I’m currently figuring out how to be a Go Blockchain Developer 🤓
-- 🌱 Currently learning everything necessary to become a dev including: Go, Docker, Scripting, SQL, etc.
+- 🌱 Currently learning everything necessary to become a dev including: Go, Docker, APIs, Scripting, SQL, etc.
 - 🧑‍🔧 Education: BEng (Hons) Mechatronic Engineering.
 - 📍 South African 🇿🇦 living in Italy 🇮🇹
 - 💬 Ask me whatever you're curious about.

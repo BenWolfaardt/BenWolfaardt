@@ -1,7 +1,7 @@
 [![linkedin badge](https://img.shields.io/badge/@BenWolfaardt-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/benwolfaardt/)
 [![gmail badge](https://img.shields.io/badge/@BenjaminWolfaardt-white?style=flat&logo=gmail)](mailto:benjaminwolfaardt@gmail.com?subject=[GitHub]%20&body=Ciao%20Ben,)
 
-### Hi, I'm Ben 👋
+### Hi, I'm Ben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - 👩‍💻 I’m currently figuring out how to be a Go Blockchain Developer 🤓
 - 🌱 Currently learning everything necessary to become a dev including: Go, Docker, APIs, Scripting, SQL, etc.

@@ -5,7 +5,7 @@
 
 - 👩‍💻 Currently: a `Go` Blockchain Developer 🤓
 - 🌱 Professional Tech Stack: `Go`, Cosmos SDK, Docker, PostgreSQL, Scripting & RESTfull APIs
-- 🔧 Personal Tech Stack: `Go`, `Python`, a bit of `C++` and various Financial Libraries in the aforementioned languages. 
+- 🔧 Personal Tech Stack: `Go`, `Python`, a bit of `C++`, various Financial Libraries in the aforementioned languages as well as `C`. 
 - 🧑‍🔧 Education: BEng (Hons) Mechatronic Engineering.
 - 📍 South African 🇿🇦 living in Italy 🇮🇹
 - 💬 Ask me whatever you're curious about.

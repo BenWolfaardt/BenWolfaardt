@@ -1,4 +1,4 @@
-# `Cosmos SDK`
+# My `Cosmos SDK` Journey... so far 👩‍💻
 
 ## Commercio
 

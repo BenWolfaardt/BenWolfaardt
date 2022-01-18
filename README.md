@@ -4,7 +4,7 @@
 ### Hi, I'm Ben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - 👩‍💻 Currently: a `Go` Blockchain Developer - ₿
-- 🌱 Professional Tech Stack: `Go`, Cosmos SDK, Docker, PostgreSQL, Scripting & RESTfull APIs
+- 🌱 Professional Tech Stack: `Go`, Protobuf, Cosmos SDK, Docker, PostgreSQL, Scripting & RESTfull APIs
 - 🔧 Current Personal Tech Stack: `Go`, `Python`, a bit of `C++` and various Financial Libraries in the aforementioned languages.
 - 🤓 Previous Coding Languages Experience: `C`, `Assembly`, `MATLAB` & "`VHDL`"
 - 🧑‍🔧 Education: BEng (Hons) Mechatronic Engineering.

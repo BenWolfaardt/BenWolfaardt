@@ -7,8 +7,8 @@
 - 🌱 Professional Tech Stack: `Go`, Protobuf, Cosmos SDK, Docker, PostgreSQL, Scripting & RESTfull APIs
 - 🔧 Current Personal Tech Stack: `Go`, `Python`, a bit of `C++` and various Financial Libraries in the aforementioned languages.
 - 🤓 Previous Coding Languages Experience: `C`, `Assembly`, `MATLAB` & "`VHDL`"
-- 🧑‍🔧 Education: BEng (Hons) Mechatronic Engineering.
-- 📍 South African 🇿🇦 living in Italy 🇮🇹
+- 👨‍🔧 Education: BEng (Hons) Mechatronic Engineering.
+- 📍  South African 🇿🇦 living in Italy 🇮🇹
 - 💬 Ask me whatever you're curious about.
 - 📫 How to reach me: [email](mailto:benjaminwolfaardt@gmail.com?subject=[GitHub]%20&body=Ciao%20Ben,).
 - ⚡ Fun fact: I have the desire to perpetually be stimulated!  

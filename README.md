@@ -7,7 +7,7 @@
 - 🌱 Current Professional Tech Stack: `Python`, `AWS`, `K8s`, `Terraform`
 - 📖 Previous Professional Tech Stack: `Go`, Protobuf, Cosmos SDK, Docker, PostgreSQL, Scripting & RESTfull APIs
 - 🔧 Current Personal Tech Stack: `Go`, `Python`, a bit of `C++` and various Financial Libraries in `Python`.
-- 🤓 Previous Coding Languages Experience: `C`, `Assembly`, `MATLAB` & "`VHDL`"
+- 🤓 Previous Coding Languages Experience: `C`, `Assembly`, `Java`, `MATLAB` & "`VHDL`"
 - 👨‍🔧 Education: BEng (Hons) Mechatronic Engineering.
 - 📍  South African 🇿🇦 living in Italy 🇮🇹
 - 💬 Ask me whatever you're curious about.

@@ -13,7 +13,7 @@
 | 🧱 Stack | `Go` · `Solidity` · `Bitcoins` · `EVMs` · `Solana` · `TEEs` · `quantum-resistance` |
 | ☁️ Infra | `AWS` · `GCP` · `Azure` · `Terraform` · `Helm` · `Pulumi` · `Proxmox` · `Cloudflare` |
 | 🌍 Origin → Home | 🇿🇦 → 🇮🇹 |
-| 🟠 In crypto since | block 2013 |
+| 🪙 In crypto since | ETH mining 2017 ⛏️ |
 | 🎤 Mempool | speaking at & attending blockchain conferences |
 | 🔮 Next block | agents x blockchain |
 

@@ -8,7 +8,7 @@
 | Field | Value |
 |---|---|
 | 👤 Validator | Ben Wolfaardt |
-| 💼 Role | R&D DeFi Developer @ [Aeredium](https://aeredium.io) - protocol focus |
+| 💼 Role | Blockchain Lead @ [Aeredium](https://aeredium.io) - protocol focus |
 | ⛓️ Prev blocks | [Kima](https://www.kima.network/) (Engineering Lead), [Bitpanda](https://www.bitpanda.com/en) (Blockchain Engineer) |
 | 🧱 Stack | `Go` · `Solidity` · `Bitcoins` · `EVMs` · `Solana` · `TEEs` · `quantum-resistance` |
 | ☁️ Infra | `AWS` · `GCP` · `Azure` · `Terraform` · `Helm` · `Pulumi` · `Proxmox` · `Cloudflare` |

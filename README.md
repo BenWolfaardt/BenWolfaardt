@@ -10,7 +10,7 @@
 | 👤 Validator | Ben Wolfaardt |
 | 💼 Role | Blockchain Lead @ [Aeredium](https://aeredium.io) - protocol focus |
 | ⛓️ Prev blocks | [Kima](https://www.kima.network/) (Engineering Lead), [Bitpanda](https://www.bitpanda.com/en) (Blockchain Engineer) |
-| 🧱 Stack | `Go` · `Solidity` · `Bitcoins` · `EVMs` · `Solana` · `TEEs` · `quantum-resistance` |
+| 🧱 Stack | `Go` · `Pyhton` · `Solidity` · `EVMs` · `Bitcoin` · `Solana` · `TEEs` · `quantum-resistance` |
 | ☁️ Infra | `AWS` · `GCP` · `Azure` · `Terraform` · `Helm` · `Pulumi` · `Proxmox` · `Cloudflare` |
 | 🌍 Origin → Home | 🇿🇦 → 🇮🇹 |
 | 🪙 In crypto since | ETH mining 2017 ⛏️ |
